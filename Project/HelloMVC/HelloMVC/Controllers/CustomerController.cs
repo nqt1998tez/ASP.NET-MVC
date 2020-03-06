@@ -26,5 +26,11 @@ namespace HelloMVC.Controllers
 
             return View();
         }
+        public ActionResult News()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }

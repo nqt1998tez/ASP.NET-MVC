@@ -128,7 +128,20 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\all.css" />
+    <Content Include="Assets\brands.css" />
     <Content Include="Assets\css\style.css" />
+    <Content Include="Assets\fontawesome.css" />
+    <Content Include="Assets\fontawesome.min.css" />
+    <Content Include="Assets\img\banner-ads-1.png" />
+    <Content Include="Assets\img\banner-ads-2.png" />
+    <Content Include="Assets\img\Layout_VnExpress.png" />
+    <Content Include="Assets\img\Logo_Vnexpress.png" />
+    <Content Include="Assets\img\right-ads-1.png" />
+    <Content Include="Assets\img\right-ads-2.png" />
+    <Content Include="Assets\img\right-ads-3.png" />
+    <Content Include="Assets\img\thumnails.png" />
+    <Content Include="Assets\solid.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -165,6 +178,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Boostrap\Index.cshtml" />
+    <Content Include="Views\Boostrap\News.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
